@@ -44,7 +44,7 @@ I write code that (almost) always works. — Colombia 🇨🇴
 
 ### Outside the code
 
-<img src="./assets/me.jpg" width="160" height="160" align="left" style="border-radius: 8px; margin-right: 16px; object-fit: cover; object-position: center;">
+<img src="./assets/me.jpg" width="260" height="260" align="left" style="border-radius: 8px; margin-right: 16px; object-fit: cover; object-position: center;">
 
 📷 Photography of stolen moments
 
