@@ -10,6 +10,7 @@ I write code that (almost) always works. — Colombia 🇨🇴
 ![Go](https://img.shields.io/badge/Go-00add8?style=flat&logo=go&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-563d7c?style=flat&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=flat&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-14151a?style=flat&logo=bun&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white)
 
