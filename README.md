@@ -44,8 +44,10 @@ I write code that (almost) always works. — Colombia 🇨🇴
 
 ### Outside the code
 
-<img src="./assets/me.jpg" width="160" align="right" style="border-radius: 8px; margin-left: 16px;">
+<img src="./assets/me.jpg" width="160" height="160" align="left" style="border-radius: 8px; margin-right: 16px; object-fit: cover; object-position: center;">
 
 📷 Photography of stolen moments
 
 🏍️ Motorcycles
+
+<br clear="left" />
