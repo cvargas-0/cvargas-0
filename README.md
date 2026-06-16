@@ -43,12 +43,4 @@ I write code that (almost) always works. — Colombia 🇨🇴
 
 ---
 
-### Outside the code
 
-<img src="./assets/me.jpg" width="200" align="left" style="border-radius: 8px; margin-right: 16px;">
-
-📷 Photography of stolen moments
-
-🏍️ Motorcycles
-
-<br clear="left" />
